@@ -1,0 +1,9 @@
+# a cerquilha comenta o seu texto no .gitignore
+
+# BACKLIST
+# Ignorando arquivo explicitamente: nome.txt
+teste.txt
+
+# Ignorando TODOS: *.js
+*.js
+
