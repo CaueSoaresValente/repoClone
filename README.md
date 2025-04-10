@@ -10,3 +10,6 @@ Caso 2: Publicando alterações locais para o repositório remoto, após clonar 
 git add .
 git commit -m "Descreva sua alteração"
 git push origin main Resultado: Todas as modificações serão publicadas no GitHub.
+
+
+Vamos ver se aparece!!
